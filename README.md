@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 2. Download spaCy model:
 ```bash
-python -m spacy download en_core_web_sm
+pip -m spacy download en_core_web_sm
 ```
 
 ### Usage
