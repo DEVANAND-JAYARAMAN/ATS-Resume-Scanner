@@ -10,7 +10,7 @@ def main():
     st.set_page_config(page_title="ATS Resume Scanner", layout="wide")
     
     st.title("🎯 ATS Resume Scanner")
-    st.subtitle("AI-Powered Intelligent Recruitment System")
+    st.subheader("AI-Powered Intelligent Recruitment System")
     
     # Initialize components
     db = Database()
